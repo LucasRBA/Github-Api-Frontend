@@ -6,6 +6,6 @@
 ### After installing the required dependencies you can run this project with `npm start` or `yarn start`
 ### If the command doesn't open a new tab in your browser you can access it on `localhost:3000` 
 
-### This project was made using benits's https://github.com/benits/github-api-interface repository. 
-### it was added an theme switcher feature and some other minor intarrface changes.
+### This project was made using benits's https://github.com/benits/github-api-interface repository, 
+### a theme switcher feature and some other minor interface changes were made.
 
